@@ -1,3 +1,9 @@
+/**
+ * JAVA 2 Homework4
+ * 
+ * @author Oksana Ilyakova
+ * @version 28.12.2021
+ */
 public class HW4 {
     public static void main(String[] args) {
         String[] words = {"car", "chimp", "street", "star", "port", "park", "bus", "wood", "clock", "dog","chik", "cup"};
